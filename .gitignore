@@ -1,0 +1,20 @@
+node_modules/
+__pycache__/
+*.pyc
+.vercel/
+.cache/
+dist/
+test-results/
+playwright-report/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Local production records, imported documents and generated deliverables
+.coordination/
+.codex/
+launch/
+docs/sources/
+docs/optimization-plan-*.md
+docs/xiaohongshu-minitool-assessment-*.md

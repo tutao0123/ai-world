@@ -1,0 +1,5121 @@
+{
+  "version": "v1.0.4",
+  "identical": true,
+  "sourceHashes": {
+    "local-copy": "730442860094facfa95406d98f689cb8302981b69e7b51e6e1860794bc5c576e",
+    "versioned-copy": "730442860094facfa95406d98f689cb8302981b69e7b51e6e1860794bc5c576e"
+  },
+  "paragraphCount": 1022,
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0002",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0003",
+      "style": "heading 2",
+      "text": "写在前面：学 AI，不是背完一部词典"
+    },
+    {
+      "id": "p0004",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0005",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0006",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0007",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0008",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0009",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0010",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0011",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0012",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0013",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0014",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0015",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0016",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0017",
+      "style": "heading 2",
+      "text": "判断 AI 新概念的五个问题"
+    },
+    {
+      "id": "p0018",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0019",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0020",
+      "style": "heading 2",
+      "text": "阅读方法"
+    },
+    {
+      "id": "p0021",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0022",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0023",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0024",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0025",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0026",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0027",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0028",
+      "style": "heading 2",
+      "text": "全文章节"
+    },
+    {
+      "id": "p0029",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0030",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0031",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0032",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0033",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0034",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0035",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0036",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0037",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0038",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0039",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0040",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0041",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0042",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0043",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0044",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0045",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0046",
+      "style": "heading 1",
+      "text": "第一部分：模型从哪里来——AI、学习与大语言模型"
+    },
+    {
+      "id": "p0047",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0048",
+      "style": "heading 2",
+      "text": "第 1 章 AI 知识地图：不要从名词开始，要从问题开始"
+    },
+    {
+      "id": "p0049",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0050",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0051",
+      "style": "heading 3",
+      "text": "1.1 “人工智能”不是一种技术"
+    },
+    {
+      "id": "p0052",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0053",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0054",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0055",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0056",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0057",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0058",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0059",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0060",
+      "style": "heading 3",
+      "text": "1.2 三种造系统的方法"
+    },
+    {
+      "id": "p0061",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0062",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0063",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0064",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0065",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0066",
+      "style": "heading 3",
+      "text": "1.3 模型到底是什么"
+    },
+    {
+      "id": "p0067",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0068",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0069",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0070",
+      "style": "heading 3",
+      "text": "1.4 训练和推理：上学与开卷答题"
+    },
+    {
+      "id": "p0071",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0072",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0073",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0074",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0075",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0076",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0077",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0078",
+      "style": "heading 3",
+      "text": "1.5 AI 系统的六层结构"
+    },
+    {
+      "id": "p0079",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0080",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0081",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0082",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0083",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0084",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0085",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0086",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0087",
+      "style": "heading 3",
+      "text": "1.6 能力、可靠性与智能不是同一个词"
+    },
+    {
+      "id": "p0088",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0089",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0090",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0091",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0092",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0093",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0094",
+      "style": "heading 2",
+      "text": "第 2 章 机器学习基础：模型如何从错误中学习"
+    },
+    {
+      "id": "p0095",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0096",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0097",
+      "style": "heading 3",
+      "text": "2.1 一次机器学习任务的基本构件"
+    },
+    {
+      "id": "p0098",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0099",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0100",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0101",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0102",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0103",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0104",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0105",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0106",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0107",
+      "style": "heading 3",
+      "text": "2.2 监督、无监督、自监督与强化学习"
+    },
+    {
+      "id": "p0108",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0109",
+      "style": "heading 4",
+      "text": "监督学习"
+    },
+    {
+      "id": "p0110",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0111",
+      "style": "heading 4",
+      "text": "无监督学习"
+    },
+    {
+      "id": "p0112",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0113",
+      "style": "heading 4",
+      "text": "自监督学习"
+    },
+    {
+      "id": "p0114",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0115",
+      "style": "heading 4",
+      "text": "强化学习"
+    },
+    {
+      "id": "p0116",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0117",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0118",
+      "style": "heading 3",
+      "text": "2.3 损失、梯度和梯度下降"
+    },
+    {
+      "id": "p0119",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0120",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0121",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0122",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0123",
+      "style": "heading 3",
+      "text": "2.4 批次、轮次与随机性"
+    },
+    {
+      "id": "p0124",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0125",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0126",
+      "style": "heading 3",
+      "text": "2.5 训练集、验证集与测试集"
+    },
+    {
+      "id": "p0127",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0128",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0129",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0130",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0131",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0132",
+      "style": "heading 3",
+      "text": "2.6 过拟合、欠拟合与偏差—方差"
+    },
+    {
+      "id": "p0133",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0134",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0135",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0136",
+      "style": "heading 3",
+      "text": "2.7 超参数与参数"
+    },
+    {
+      "id": "p0137",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0138",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0139",
+      "style": "heading 3",
+      "text": "2.8 指标不是答案"
+    },
+    {
+      "id": "p0140",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0141",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0142",
+      "style": "heading 2",
+      "text": "第 3 章 神经网络与 Transformer：文字怎样进入模型"
+    },
+    {
+      "id": "p0143",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0144",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0145",
+      "style": "heading 3",
+      "text": "3.1 从神经元到多层网络"
+    },
+    {
+      "id": "p0146",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0147",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0148",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0149",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0150",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0151",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0152",
+      "style": "heading 3",
+      "text": "3.2 表示学习与 Embedding"
+    },
+    {
+      "id": "p0153",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0154",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0155",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0156",
+      "style": "heading 3",
+      "text": "3.3 Token：模型读的不是“字”也不是“词”"
+    },
+    {
+      "id": "p0157",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0158",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0159",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0160",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0161",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0162",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0163",
+      "style": "heading 3",
+      "text": "3.4 为什么需要注意力"
+    },
+    {
+      "id": "p0164",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0165",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0166",
+      "style": "heading 3",
+      "text": "3.5 自注意力的 Q、K、V 直觉"
+    },
+    {
+      "id": "p0167",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0168",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0169",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0170",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0171",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0172",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0173",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0174",
+      "style": "heading 3",
+      "text": "3.6 多头、前馈层、残差与归一化"
+    },
+    {
+      "id": "p0175",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0176",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0177",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0178",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0179",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0180",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0181",
+      "style": "heading 3",
+      "text": "3.7 一句话怎样走过 Transformer"
+    },
+    {
+      "id": "p0182",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0183",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0184",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0185",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0186",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0187",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0188",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0189",
+      "style": "heading 3",
+      "text": "3.8 Encoder、Decoder 与三种典型路线"
+    },
+    {
+      "id": "p0190",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0191",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0192",
+      "style": "heading 3",
+      "text": "3.9 上下文窗口与“记忆”"
+    },
+    {
+      "id": "p0193",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0194",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0195",
+      "style": "heading 3",
+      "text": "3.10 Transformer 强在哪里，又付出什么代价"
+    },
+    {
+      "id": "p0196",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0197",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0198",
+      "style": "heading 2",
+      "text": "第 4 章 大语言模型的训练生命周期：从原始文本到可用助手"
+    },
+    {
+      "id": "p0199",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0200",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0201",
+      "style": "heading 3",
+      "text": "4.1 全流程总览"
+    },
+    {
+      "id": "p0202",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0203",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0204",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0205",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0206",
+      "style": "heading 3",
+      "text": "4.2 数据：规模之外还有配比和治理"
+    },
+    {
+      "id": "p0207",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0208",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0209",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0210",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0211",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0212",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0213",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0214",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0215",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0216",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0217",
+      "style": "heading 3",
+      "text": "4.3 预训练：预测下一个 token，得到的为何不只是补全"
+    },
+    {
+      "id": "p0218",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0219",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0220",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0221",
+      "style": "heading 3",
+      "text": "4.4 基础模型、基座模型和聊天模型"
+    },
+    {
+      "id": "p0222",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0223",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0224",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0225",
+      "style": "heading 3",
+      "text": "4.5 持续预训练、领域适配与微调"
+    },
+    {
+      "id": "p0226",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0227",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0228",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0229",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0230",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0231",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0232",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0233",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0234",
+      "style": "heading 3",
+      "text": "4.6 指令微调：从会续写到会响应"
+    },
+    {
+      "id": "p0235",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0236",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0237",
+      "style": "heading 3",
+      "text": "4.7 偏好对齐、RLHF 与 DPO"
+    },
+    {
+      "id": "p0238",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0239",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0240",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0241",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0242",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0243",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0244",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0245",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0246",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0247",
+      "style": "heading 3",
+      "text": "4.8 对齐不是知识注入，也不是事实保证"
+    },
+    {
+      "id": "p0248",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0249",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0250",
+      "style": "heading 3",
+      "text": "4.9 推理模型与测试时计算：回答阶段也能分配预算"
+    },
+    {
+      "id": "p0251",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0252",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0253",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0254",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0255",
+      "style": "heading 3",
+      "text": "4.10 评测贯穿生命周期"
+    },
+    {
+      "id": "p0256",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0257",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0258",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0259",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0260",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0261",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0262",
+      "style": "heading 3",
+      "text": "4.11 压缩、部署和推理优化"
+    },
+    {
+      "id": "p0263",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0264",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0265",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0266",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0267",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0268",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0269",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0270",
+      "style": "heading 3",
+      "text": "4.12 开放权重不等于开源"
+    },
+    {
+      "id": "p0271",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0272",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0273",
+      "style": "heading 3",
+      "text": "4.13 把四章压缩成一条因果链"
+    },
+    {
+      "id": "p0274",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0275",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0276",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0277",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0278",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0279",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0280",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0281",
+      "style": "heading 2",
+      "text": "第一部分练习：把一个 AI 想法画成系统地图"
+    },
+    {
+      "id": "p0282",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0283",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0284",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0285",
+      "style": "heading 2",
+      "text": "关键来源与延伸阅读（原始论文/官方来源）"
+    },
+    {
+      "id": "p0286",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0287",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0288",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0289",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0290",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0291",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0292",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0293",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0294",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0295",
+      "style": "heading 1",
+      "text": "第二部分：能力怎样进入产品——Prompt、知识、行动与评测"
+    },
+    {
+      "id": "p0296",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0297",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0298",
+      "style": "heading 2",
+      "text": "第 5 章 Prompt 与上下文：你不是在“问模型”，而是在设计一次计算"
+    },
+    {
+      "id": "p0299",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0300",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0301",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0302",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0303",
+      "style": "heading 3",
+      "text": "5.1 Prompt 的基本组成"
+    },
+    {
+      "id": "p0304",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0305",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0306",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0307",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0308",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0309",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0310",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0311",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0312",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0313",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0314",
+      "style": "heading 3",
+      "text": "5.2 消息角色与指令层级"
+    },
+    {
+      "id": "p0315",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0316",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0317",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0318",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0319",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0320",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0321",
+      "style": "heading 3",
+      "text": "5.3 上下文窗口是什么"
+    },
+    {
+      "id": "p0322",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0323",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0324",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0325",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0326",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0327",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0328",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0329",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0330",
+      "style": "heading 3",
+      "text": "5.4 零样本、少样本与示例"
+    },
+    {
+      "id": "p0331",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0332",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0333",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0334",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0335",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0336",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0337",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0338",
+      "style": "heading 3",
+      "text": "5.5 结构化输出不只是排版"
+    },
+    {
+      "id": "p0339",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0340",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0341",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0342",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0343",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0344",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0345",
+      "style": "heading 3",
+      "text": "5.6 Prompt 的迭代方法"
+    },
+    {
+      "id": "p0346",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0347",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0348",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0349",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0350",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0351",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0352",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0353",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0354",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0355",
+      "style": "heading 4",
+      "text": "本章容易混淆的概念"
+    },
+    {
+      "id": "p0356",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0357",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0358",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0359",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0360",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0361",
+      "style": "heading 2",
+      "text": "第 6 章 RAG 与知识工程：让模型先找到资料，再组织答案"
+    },
+    {
+      "id": "p0362",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0363",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0364",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0365",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0366",
+      "style": "heading 3",
+      "text": "6.1 一条完整的 RAG 流水线"
+    },
+    {
+      "id": "p0367",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0368",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0369",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0370",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0371",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0372",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0373",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0374",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0375",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0376",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0377",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0378",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0379",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0380",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0381",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0382",
+      "style": "heading 3",
+      "text": "6.2 Embedding 与向量检索"
+    },
+    {
+      "id": "p0383",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0384",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0385",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0386",
+      "style": "heading 3",
+      "text": "6.3 Chunking：切得太大和太小都不行"
+    },
+    {
+      "id": "p0387",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0388",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0389",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0390",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0391",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0392",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0393",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0394",
+      "style": "heading 3",
+      "text": "6.4 元数据、权限和版本"
+    },
+    {
+      "id": "p0395",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0396",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0397",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0398",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0399",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0400",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0401",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0402",
+      "style": "heading 3",
+      "text": "6.5 RAG、微调与长上下文怎么选"
+    },
+    {
+      "id": "p0403",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0404",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0405",
+      "style": "heading 3",
+      "text": "6.6 RAG 不保证不幻觉"
+    },
+    {
+      "id": "p0406",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0407",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0408",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0409",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0410",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0411",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0412",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0413",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0414",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0415",
+      "style": "heading 4",
+      "text": "本章容易混淆的概念"
+    },
+    {
+      "id": "p0416",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0417",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0418",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0419",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0420",
+      "style": "heading 2",
+      "text": "第 7 章 Agent、工具调用与工作流：从生成文字到执行任务"
+    },
+    {
+      "id": "p0421",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0422",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0423",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0424",
+      "style": "heading 3",
+      "text": "7.1 Tool Calling 是什么"
+    },
+    {
+      "id": "p0425",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0426",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0427",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0428",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0429",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0430",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0431",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0432",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0433",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0434",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0435",
+      "style": "heading 3",
+      "text": "7.2 Agent 到底是什么"
+    },
+    {
+      "id": "p0436",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0437",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0438",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0439",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0440",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0441",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0442",
+      "style": "heading 3",
+      "text": "7.3 Agent、工作流和聊天机器人"
+    },
+    {
+      "id": "p0443",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0444",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0445",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0446",
+      "style": "heading 3",
+      "text": "7.4 规划、状态与记忆"
+    },
+    {
+      "id": "p0447",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0448",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0449",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0450",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0451",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0452",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0453",
+      "style": "heading 3",
+      "text": "7.5 多 Agent 并不自动更聪明"
+    },
+    {
+      "id": "p0454",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0455",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0456",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0457",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0458",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0459",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0460",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0461",
+      "style": "heading 3",
+      "text": "7.6 让 Agent 可控的工程措施"
+    },
+    {
+      "id": "p0462",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0463",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0464",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0465",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0466",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0467",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0468",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0469",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0470",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0471",
+      "style": "heading 3",
+      "text": "7.7 GUI Agent 与 Computer Use：操作人类界面"
+    },
+    {
+      "id": "p0472",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0473",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0474",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0475",
+      "style": "heading 4",
+      "text": "本章容易混淆的概念"
+    },
+    {
+      "id": "p0476",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0477",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0478",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0479",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0480",
+      "style": "heading 2",
+      "text": "第 8 章 评测与生产化：Demo 能跑，只是起点"
+    },
+    {
+      "id": "p0481",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0482",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0483",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0484",
+      "style": "heading 3",
+      "text": "8.1 为什么传统单元测试不够"
+    },
+    {
+      "id": "p0485",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0486",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0487",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0488",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0489",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0490",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0491",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0492",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0493",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0494",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0495",
+      "style": "heading 3",
+      "text": "8.2 从黄金集开始"
+    },
+    {
+      "id": "p0496",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0497",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0498",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0499",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0500",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0501",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0502",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0503",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0504",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0505",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0506",
+      "style": "heading 3",
+      "text": "8.3 RAG 和 Agent 应分段评测"
+    },
+    {
+      "id": "p0507",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0508",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0509",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0510",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0511",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0512",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0513",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0514",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0515",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0516",
+      "style": "heading 3",
+      "text": "8.4 离线评测与在线指标"
+    },
+    {
+      "id": "p0517",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0518",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0519",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0520",
+      "style": "heading 3",
+      "text": "8.5 成本：不只是 Token 单价"
+    },
+    {
+      "id": "p0521",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0522",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0523",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0524",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0525",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0526",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0527",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0528",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0529",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0530",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0531",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0532",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0533",
+      "style": "heading 3",
+      "text": "8.6 延迟与用户体验"
+    },
+    {
+      "id": "p0534",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0535",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0536",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0537",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0538",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0539",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0540",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0541",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0542",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0543",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0544",
+      "style": "heading 3",
+      "text": "8.7 可靠性与故障恢复"
+    },
+    {
+      "id": "p0545",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0546",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0547",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0548",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0549",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0550",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0551",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0552",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0553",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0554",
+      "style": "heading 3",
+      "text": "8.8 安全：把模型当作不可信决策者"
+    },
+    {
+      "id": "p0555",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0556",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0557",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0558",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0559",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0560",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0561",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0562",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0563",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0564",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0565",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0566",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0567",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0568",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0569",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0570",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0571",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0572",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0573",
+      "style": "heading 3",
+      "text": "8.9 LLMOps 与 AgentOps：建立持续改进闭环"
+    },
+    {
+      "id": "p0574",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0575",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0576",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0577",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0578",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0579",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0580",
+      "style": "heading 3",
+      "text": "8.10 上线前的一页检查表"
+    },
+    {
+      "id": "p0581",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0582",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0583",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0584",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0585",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0586",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0587",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0588",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0589",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0590",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0591",
+      "style": "heading 4",
+      "text": "本章容易混淆的概念"
+    },
+    {
+      "id": "p0592",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0593",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0594",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0595",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0596",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0597",
+      "style": "heading 2",
+      "text": "第二部分练习：制作一个有证据、会拒答的问答原型"
+    },
+    {
+      "id": "p0598",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0599",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0600",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0601",
+      "style": "heading 2",
+      "text": "主要来源"
+    },
+    {
+      "id": "p0602",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0603",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0604",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0605",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0606",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0607",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0608",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0609",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0610",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0611",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0612",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0613",
+      "style": "heading 1",
+      "text": "第三部分：重要专题——模态、基础设施与治理"
+    },
+    {
+      "id": "p0614",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0615",
+      "style": "heading 2",
+      "text": "第 9 章 多模态与生成媒体：AI 不只是在“写字”"
+    },
+    {
+      "id": "p0616",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0617",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0618",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0619",
+      "style": "heading 3",
+      "text": "9.1 多模态模型究竟多了什么"
+    },
+    {
+      "id": "p0620",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0621",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0622",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0623",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0624",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0625",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0626",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0627",
+      "style": "heading 3",
+      "text": "9.2 生成图片：从噪声中逐步还原"
+    },
+    {
+      "id": "p0628",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0629",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0630",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0631",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0632",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0633",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0634",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0635",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0636",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0637",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0638",
+      "style": "heading 3",
+      "text": "9.3 语音、音乐和视频"
+    },
+    {
+      "id": "p0639",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0640",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0641",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0642",
+      "style": "heading 3",
+      "text": "9.4 多模态应用的正确拆法"
+    },
+    {
+      "id": "p0643",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0644",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0645",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0646",
+      "style": "heading 2",
+      "text": "第 10 章 基础设施与开源生态：模型背后的“机器、系统与供应链”"
+    },
+    {
+      "id": "p0647",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0648",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0649",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0650",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0651",
+      "style": "heading 3",
+      "text": "10.1 为什么 AI 喜欢 GPU"
+    },
+    {
+      "id": "p0652",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0653",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0654",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0655",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0656",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0657",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0658",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0659",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0660",
+      "style": "heading 3",
+      "text": "10.2 延迟、吞吐与成本是一组三角关系"
+    },
+    {
+      "id": "p0661",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0662",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0663",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0664",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0665",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0666",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0667",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0668",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0669",
+      "style": "heading 3",
+      "text": "10.3 MoE、模型路由与缓存：三种层次的节省"
+    },
+    {
+      "id": "p0670",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0671",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0672",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0673",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0674",
+      "style": "heading 3",
+      "text": "10.4 量化、蒸馏与模型压缩"
+    },
+    {
+      "id": "p0675",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0676",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0677",
+      "style": "heading 3",
+      "text": "10.5 本地部署、云 API 与混合架构"
+    },
+    {
+      "id": "p0678",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0679",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0680",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0681",
+      "style": "heading 3",
+      "text": "10.6 “开源模型”不一定真的开源"
+    },
+    {
+      "id": "p0682",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0683",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0684",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0685",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0686",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0687",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0688",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0689",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0690",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0691",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0692",
+      "style": "heading 2",
+      "text": "第 11 章 安全、治理、版权与隐私：让 AI 能被负责任地使用"
+    },
+    {
+      "id": "p0693",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0694",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0695",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0696",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0697",
+      "style": "heading 3",
+      "text": "11.1 从“模型会答错”到完整风险地图"
+    },
+    {
+      "id": "p0698",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0699",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0700",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0701",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0702",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0703",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0704",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0705",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0706",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0707",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0708",
+      "style": "heading 3",
+      "text": "11.2 提示词注入与 Agent 权限"
+    },
+    {
+      "id": "p0709",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0710",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0711",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0712",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0713",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0714",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0715",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0716",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0717",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0718",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0719",
+      "style": "heading 3",
+      "text": "11.3 隐私与数据治理"
+    },
+    {
+      "id": "p0720",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0721",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0722",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0723",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0724",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0725",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0726",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0727",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0728",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0729",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0730",
+      "style": "heading 3",
+      "text": "11.4 版权问题要拆成三道题"
+    },
+    {
+      "id": "p0731",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0732",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0733",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0734",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0735",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0736",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0737",
+      "style": "heading 3",
+      "text": "11.5 透明度、标识与合规不是一张证书"
+    },
+    {
+      "id": "p0738",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0739",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0740",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0741",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0742",
+      "style": "heading 2",
+      "text": "第三部分练习：完成一次生产化评审"
+    },
+    {
+      "id": "p0743",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0744",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0745",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0746",
+      "style": "heading 1",
+      "text": "第四部分：进入真实工作——AI 编程与职业路线"
+    },
+    {
+      "id": "p0747",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0748",
+      "style": "heading 2",
+      "text": "第 12 章 AI 编程与智能开发工具：从“代码补全”到管理编码智能体"
+    },
+    {
+      "id": "p0749",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0750",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0751",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0752",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0753",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0754",
+      "style": "heading 3",
+      "text": "12.1 先分清四个阶段：补全、对话、编辑与智能体"
+    },
+    {
+      "id": "p0755",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0756",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0757",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0758",
+      "style": "heading 3",
+      "text": "12.2 它们以什么形态进入工作流"
+    },
+    {
+      "id": "p0759",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0760",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0761",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0762",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0763",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0764",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0765",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0766",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0767",
+      "style": "heading 3",
+      "text": "12.3 Cursor、Claude Code 与 Codex 应该怎样理解"
+    },
+    {
+      "id": "p0768",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0769",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0770",
+      "style": "heading 3",
+      "text": "12.4 Context Engineering：让智能体看见正确的项目"
+    },
+    {
+      "id": "p0771",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0772",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0773",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0774",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0775",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0776",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0777",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0778",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0779",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0780",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0781",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0782",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0783",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0784",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0785",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0786",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0787",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0788",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0789",
+      "style": "heading 3",
+      "text": "12.5 Rules、Instructions 与项目记忆"
+    },
+    {
+      "id": "p0790",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0791",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0792",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0793",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0794",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0795",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0796",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0797",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0798",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0799",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0800",
+      "style": "heading 3",
+      "text": "12.6 怎样写一个适合编码智能体的任务"
+    },
+    {
+      "id": "p0801",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0802",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0803",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0804",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0805",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0806",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0807",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0808",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0809",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0810",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0811",
+      "style": "heading 3",
+      "text": "12.7 Plan、Agent、Review：模式代表不同授权"
+    },
+    {
+      "id": "p0812",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0813",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0814",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0815",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0816",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0817",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0818",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0819",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0820",
+      "style": "heading 3",
+      "text": "12.8 MCP、Skills、Hooks 和子智能体分别解决什么"
+    },
+    {
+      "id": "p0821",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0822",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0823",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0824",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0825",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0826",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0827",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0828",
+      "style": "heading 3",
+      "text": "12.9 Git、Worktree 与可恢复性"
+    },
+    {
+      "id": "p0829",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0830",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0831",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0832",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0833",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0834",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0835",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0836",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0837",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0838",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0839",
+      "style": "heading 3",
+      "text": "12.10 验收 AI 代码：输出不是证据"
+    },
+    {
+      "id": "p0840",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0841",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0842",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0843",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0844",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0845",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0846",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0847",
+      "style": "heading 3",
+      "text": "12.11 权限、安全和隐私"
+    },
+    {
+      "id": "p0848",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0849",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0850",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0851",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0852",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0853",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0854",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0855",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0856",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0857",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0858",
+      "style": "heading 3",
+      "text": "12.12 怎样选择工具"
+    },
+    {
+      "id": "p0859",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0860",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0861",
+      "style": "heading 3",
+      "text": "12.13 三类人怎样开始"
+    },
+    {
+      "id": "p0862",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0863",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0864",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0865",
+      "style": "heading 3",
+      "text": "12.14 常见误区"
+    },
+    {
+      "id": "p0866",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0867",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0868",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0869",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0870",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0871",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0872",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0873",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0874",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0875",
+      "style": "heading 3",
+      "text": "主要参考资料（官方文档）"
+    },
+    {
+      "id": "p0876",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0877",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0878",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0879",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0880",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0881",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0882",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0883",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0884",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0885",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0886",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0887",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0888",
+      "style": "heading 2",
+      "text": "第 13 章 岗位、学习路线与行业判断：怎样真正进入 AI"
+    },
+    {
+      "id": "p0889",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0890",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0891",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0892",
+      "style": "heading 3",
+      "text": "13.1 用交付物理解岗位"
+    },
+    {
+      "id": "p0893",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0894",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0895",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0896",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0897",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0898",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0899",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0900",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0901",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0902",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0903",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0904",
+      "style": "heading 3",
+      "text": "13.2 三条主路线"
+    },
+    {
+      "id": "p0905",
+      "style": "heading 4",
+      "text": "路线 A：AI 应用与产品"
+    },
+    {
+      "id": "p0906",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0907",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0908",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0909",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0910",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0911",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0912",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0913",
+      "style": "heading 4",
+      "text": "路线 B：模型、数据与算法"
+    },
+    {
+      "id": "p0914",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0915",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0916",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0917",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0918",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0919",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0920",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0921",
+      "style": "heading 4",
+      "text": "路线 C：AI 系统与基础设施"
+    },
+    {
+      "id": "p0922",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0923",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0924",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0925",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0926",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0927",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0928",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0929",
+      "style": "heading 3",
+      "text": "13.3 一套可执行的 12 周起步方案"
+    },
+    {
+      "id": "p0930",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0931",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0932",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0933",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0934",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0935",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0936",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0937",
+      "style": "heading 3",
+      "text": "13.4 怎样判断一项 AI 技术值不值得学"
+    },
+    {
+      "id": "p0938",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0939",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0940",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0941",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0942",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0943",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0944",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0945",
+      "style": "heading 3",
+      "text": "13.5 行业判断：能力在商品化，问题定义更值钱"
+    },
+    {
+      "id": "p0946",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0947",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0948",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0949",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0950",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0951",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0952",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0953",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0954",
+      "style": "heading 3",
+      "text": "13.6 给入门者的最后一张检查表"
+    },
+    {
+      "id": "p0955",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0956",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0957",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0958",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0959",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0960",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0961",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0962",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0963",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0964",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0965",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0966",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0967",
+      "style": "heading 2",
+      "text": "第四部分练习：委派任务并形成作品集"
+    },
+    {
+      "id": "p0968",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0969",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0970",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0971",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0972",
+      "style": "heading 2",
+      "text": "全文核心概念索引"
+    },
+    {
+      "id": "p0973",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0974",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0975",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0976",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0977",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0978",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0979",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0980",
+      "style": "heading 2",
+      "text": "主要参考来源（官方或原始资料）"
+    },
+    {
+      "id": "p0981",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0982",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0983",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0984",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0985",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0986",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0987",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0988",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0989",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0990",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0991",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0992",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0993",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0994",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0995",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0996",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0997",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0998",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p0999",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1000",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1001",
+      "style": "heading 2",
+      "text": "动态附录与维护机制"
+    },
+    {
+      "id": "p1002",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1003",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1004",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1005",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1006",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1007",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1008",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1009",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1010",
+      "style": "heading 2",
+      "text": "更新记录"
+    },
+    {
+      "id": "p1011",
+      "style": "heading 3",
+      "text": "v1.0.4｜2026-08-31"
+    },
+    {
+      "id": "p1012",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1013",
+      "style": "heading 3",
+      "text": "v1.0.3｜2026-08-31"
+    },
+    {
+      "id": "p1014",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1015",
+      "style": "heading 3",
+      "text": "v1.0.2｜2026-08-31"
+    },
+    {
+      "id": "p1016",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1017",
+      "style": "heading 3",
+      "text": "v1.0.0｜2026-08-31"
+    },
+    {
+      "id": "p1018",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1019",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1020",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1021",
+      "style": "",
+      "text": ""
+    },
+    {
+      "id": "p1022",
+      "style": "",
+      "text": ""
+    }
+  ]
+}
