@@ -4,9 +4,9 @@
 
 Explore concepts through a draggable world map, short explanations, practical examples, and small experiments. No account, backend, or paid AI API is required.
 
-[Live demo](https://world.tao55s.com) · [简体中文](README.zh-CN.md)
+[English demo](https://world.tao55s.com/?lang=en) · [中文演示](https://world.tao55s.com/?lang=zh) · [简体中文说明](README.zh-CN.md)
 
-The live demo is the current deployed release. English and Chinese support is implemented in this source build and is awaiting deployment.
+The live demo includes the English and Chinese content in release **0.3.0**.
 
 ## Explore the map
 
@@ -26,7 +26,7 @@ The atlas covers **4 regions, 13 chapters, and all 101 numbered source topics**.
 
 Use the language selector to switch between English and Chinese. The choice is saved in the current browser; both languages share the same chapter and lab progress. On a first visit, the interface follows the browser language. An explicit `?lang=en` or `?lang=zh` takes priority.
 
-For this build, `/?lang=en` opens English directly, `/?lang=en&view=labs` opens the labs, and `/?lang=en#chapter/c06/6.2` opens a specific topic. These routes become available on the live site after this build is deployed.
+Use `/?lang=en` to open English directly, `/?lang=en&view=labs` to open the labs, or `/?lang=en#chapter/c06/6.2` to share a specific topic. Switching languages keeps the selected chapter, search or dialog, learning route, and experiment settings.
 
 ## Run locally
 

@@ -4,9 +4,9 @@
 
 拖动地图、打开地标，通过简短解释、具体案例和小实验理解 AI。无需账号、后端或付费 AI API。
 
-[在线演示](https://world.tao55s.com) · [English](README.md)
+[中文演示](https://world.tao55s.com/?lang=zh) · [English demo](https://world.tao55s.com/?lang=en) · [English README](README.md)
 
-在线演示对应当前已部署版本。本次源码已实现中英文支持，尚待部署上线。
+在线演示已更新至 **0.3.0**，包含完整的中英文内容。
 
 ## 探索地图
 
@@ -26,7 +26,7 @@
 
 语言选择器支持切换中文与英文，选择保存在当前浏览器。两种语言共享同一份章节和实验进度。首次访问默认跟随浏览器语言；链接中明确指定的 `?lang=en` 或 `?lang=zh` 优先。
 
-本次构建支持用 `/?lang=en` 直接打开英文，`/?lang=en&view=labs` 进入英文实验，`/?lang=en#chapter/c06/6.2` 打开具体知识点。部署本次构建后，线上站点才会提供这些双语入口。
+用 `/?lang=en` 直接打开英文，`/?lang=en&view=labs` 进入英文实验，`/?lang=en#chapter/c06/6.2` 分享具体知识点。切换语言会保留当前章节、搜索或弹窗、学习路线及实验参数。
 
 ## 本地运行
 

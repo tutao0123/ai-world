@@ -21,6 +21,9 @@ test('390px English atlas, search, long reader, and passport keep named controls
   await expect(page.getByRole('combobox', {name: 'Language', exact: true})).toBeInViewport();
   await expect(page.getByRole('button', {name: 'Search the atlas', exact: true})).toBeVisible();
   await expectNoOverflow(page);
+  await page.locator('[data-chapter="c12"] .atlas-label').tap();
+  await expect(page.locator('#chapter-panel h2')).toHaveText(chapter.title);
+  await expect(page.locator('#chapter-panel h2')).toBeInViewport();
   await page.getByRole('button', {name: 'Search the atlas', exact: true}).tap();
   await page.getByRole('searchbox', {name: 'Search chapters and topics'}).fill('MCP');
   await expect(page.locator('[data-result-topic="12.8"]')).toBeVisible();

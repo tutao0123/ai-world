@@ -170,7 +170,18 @@ export function mountAtlas({onOpenLab}:{onOpenLab:(id:LabId)=>void}) {
   function resetView(){zoom=1;Object.assign(camera,{x:0,y:0,w:1400,h:900});updateCamera();}
   viewport.addEventListener('pointerdown',event=>{if(event.button!==0)return;pointer={id:event.pointerId,x:event.clientX,y:event.clientY,cx:camera.x,cy:camera.y,dragged:false};suppressClick=false;});
   viewport.addEventListener('pointermove',event=>{if(!pointer||event.pointerId!==pointer.id)return;const dx=event.clientX-pointer.x,dy=event.clientY-pointer.y;if(!pointer.dragged&&Math.hypot(dx,dy)>5){pointer.dragged=true;viewport.setPointerCapture(event.pointerId);viewport.classList.add('dragging');}if(pointer.dragged){const r=svg.getBoundingClientRect();const units=Math.max(camera.w/r.width,camera.h/r.height);camera.x=pointer.cx-dx*units;camera.y=pointer.cy-dy*units;updateCamera();}});
-  function finishPointer(event:PointerEvent){if(pointer?.id!==event.pointerId)return;suppressClick=pointer.dragged;if(viewport.hasPointerCapture(event.pointerId))viewport.releasePointerCapture(event.pointerId);pointer=null;viewport.classList.remove('dragging');}
+  function finishPointer(event:PointerEvent){
+    if(pointer?.id!==event.pointerId)return;
+    // Touch browsers can omit the synthetic click on SVG text. Handle a real tap
+    // on pointerup, while preserving drag cancellation and keyboard activation.
+    const tappedChapter=event.type==='pointerup'&&event.pointerType==='touch'&&!pointer.dragged
+      ?(event.target as Element).closest<SVGElement>('[data-chapter]')?.dataset.chapter as ChapterId|undefined
+      :undefined;
+    suppressClick=pointer.dragged||Boolean(tappedChapter);
+    if(viewport.hasPointerCapture(event.pointerId))viewport.releasePointerCapture(event.pointerId);
+    pointer=null;viewport.classList.remove('dragging');
+    if(tappedChapter)selectChapter(tappedChapter,{scroll:true});
+  }
   viewport.addEventListener('pointerup',finishPointer);viewport.addEventListener('pointercancel',finishPointer);
   viewport.addEventListener('click',event=>{if(suppressClick){suppressClick=false;return;}const id=(event.target as Element).closest<SVGElement>('[data-chapter]')?.dataset.chapter as ChapterId|undefined;if(id)selectChapter(id,{scroll:true});});
   viewport.addEventListener('dblclick',event=>{const id=(event.target as Element).closest<SVGElement>('[data-chapter]')?.dataset.chapter as ChapterId|undefined;if(id)openChapter(id);});
